@@ -1,45 +1,44 @@
-🏨 CodeAlpha – Hotel Reservation System (Java Project)
+# 🏨 CodeAlpha – Hotel Reservation System (Java Project)
 
 ## 📌 Project Overview
-Hotel Reservation System ek **Java-based console application** hai jo hotel room booking aur reservation management ko automate karta hai.  
-Ye project **CodeAlpha Java Programming Internship – Task 4** ke under develop kiya gaya hai.
+The Hotel Reservation System is a Java-based console application developed as part of the CodeAlpha Java Programming Internship (Task 4).
+
+This system allows users to search available rooms, book rooms, cancel reservations, and simulate payment processing. The project demonstrates strong understanding of Object-Oriented Programming (OOP), data handling, and real-world system logic implementation.
 
 ---
 
 ## 🚀 Features
-🏨 Room categorization (Standard / Deluxe / Suite)  
-🔍 Search available rooms  
-🛎️ Book hotel rooms  
-❌ Cancel reservations  
-💳 Payment simulation  
-📄 View booking details  
-📋 Menu-driven system  
+- 🏨 Room Categorization (Standard, Deluxe, Suite)
+- 🔍 Search Available Rooms
+- 🛎️ Book Rooms
+- ❌ Cancel Reservations
+- 💳 Payment Simulation
+- 📄 View Booking Details
+- 📋 Menu-Driven Console Interface
 
 ---
 
-## 🛠️ Tech Stack
-- ☕ Java  
-- 🧠 Object-Oriented Programming (OOP)  
-- 📂 File Handling / Collections  
-- ⌨️ Scanner
-- ---
-
-## 📚 Concepts Used
-- 🧱 Class design  
-- 🔐 Encapsulation  
-- 🧬 Inheritance (if used)  
-- 📦 Data management  
-- 🔁 Control structures  
+## 🛠️ Technologies Used
+- ☕ Java
+- 🧠 Object-Oriented Programming (OOP)
+- 📦 Collections Framework
+- 📂 File Handling (if implemented)
+- ⌨️ Scanner Class (User Input Handling)
 
 ---
 
-## 🎯 Internship Task
-🔹 Organization: **CodeAlpha**  
-🔹 Domain: Java Programming  
-🔹 Task: Hotel Reservation System  
+## 📊 Concepts Implemented
+- Class & Object Design
+- Encapsulation
+- Modular Programming
+- Control Structures (Loops & Conditionals)
+- Data Management & Booking Logic
 
 ---
 
-## 👨‍💻 Author
-**Piyush Dwivedi**  
-🚀 Java Developer 
+## 🎯 Internship Task Details
+- Organization: CodeAlpha
+- Domain: Java Programming
+- Task: Hotel Reservation System (Task 4)
+
+
